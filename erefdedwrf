@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",SkyCricket FAST
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",STAR SPORTS HINDI
-https://5opm.vkcdn5.com/hls/ipl.m3u8
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",FOX SPORTS 501
+#EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/87ffbeb546271ed903d6f39a4b8d037f",FOX SPORTS 501
 https://bit.ly/3zdGwhb
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fOWnLJqHMKQ/maxresdefault.jpg",ASTRO CRICKET malaysia
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/110265.ts
@@ -21,11 +19,11 @@ http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/114426.ts
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/8674.ts
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW FHD america
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/4403.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54242.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",STAR SPORTS 1 HD HINDI
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD HINDI
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54241.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",STAR SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 FHD
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54239.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",STAR SPORTS 1 HINDI HD
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HINDI HD
 http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/53994.ts
