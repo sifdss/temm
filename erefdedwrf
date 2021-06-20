@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fOWnLJqHMKQ/maxresdefault.jpg",ASTRO CRICKET
  http://iptvmedia.live:8080/test-e9b489/ecf7/157565
-#EXTINF:-1,SUPERSPORT CRICKET
+#EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/SUPERSPORT-LIVE-LOGO-IMAGE-min.jpg",SUPERSPORT CRICKET
  http://iptvmedia.live:8080/test-e9b489/ecf7/11637
-#EXTINF:-1,FOX SPORTS 501
+#EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/87ffbeb546271ed903d6f39a4b8d037f",FOX SPORTS 501
  http://iptvmedia.live:8080/test-e9b489/ecf7/279034
