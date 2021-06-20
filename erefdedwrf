@@ -1,31 +1,8 @@
 #EXTM3U
-#EXTINF:-1, DR. PANKAJ
- http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1, willow
- https://tv4.live/api/stream/sikan6@outlook.com/A97454/livetv.epg/willow.cricket.us.m3u8
-#EXTINF:-1, SKY 
- https://tv4.live/api/stream/sikan6@outlook.com/A97454/livetv.epg/hasitauf.ss.m3u8
-#EXTINF:-1, 1
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/111833.ts
-#EXTINF:-1, 2
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/47370.ts
-#EXTINF:-1,3
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/8674.ts
-#EXTINF:-1, 4
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/110265.ts
-#EXTINF:-1,5
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/114541.ts
-#EXTINF:-1, 6
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/114426.ts
-#EXTINF:-1,7
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/54239.ts
-#EXTINF:-1,8
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/54241.ts
-#EXTINF:-1,9
- http://m3u.area51iptv.site:8080/live/sikan6/2bBHQaN8mF/3250.ts
-#EXTINF:-1,1
+
+#EXTINF:-1,ASTRO CRICKET
  http://iptvmedia.live:8080/test-e9b489/ecf7/157565
-#EXTINF:-1,2
+#EXTINF:-1,SUPERSPORT CRICKET
  http://iptvmedia.live:8080/test-e9b489/ecf7/11637
-#EXTINF:-1,3
+#EXTINF:-1,FOX SPORTS 501
  http://iptvmedia.live:8080/test-e9b489/ecf7/279034
