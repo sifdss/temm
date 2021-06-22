@@ -2,49 +2,26 @@
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",SkyCricket FAST
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/87ffbeb546271ed903d6f39a4b8d037f",FOX SPORTS 501
-http://iptvmedia.live:8080/test-f559c3/a194/279034
+http://iptvmedia.live:8080/14736/a477ffe7/279034
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fOWnLJqHMKQ/maxresdefault.jpg",ASTRO CRICKET malaysia
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/110265.ts
+http://iptvmedia.live:8080/14736/a477ffe7/157565
 #EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/SUPERSPORT-LIVE-LOGO-IMAGE-min.jpg",SUPERSPORT CRICKET FHD africa
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/276763.ts
-#EXTINF:-1 tvg-logo="https://watchcricketmatch.com/wp-content/uploads/2020/12/SUPERSPORT-LIVE-LOGO-IMAGE-min.jpg",SUPERSPORT CRICKET HD africa
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/111833.ts
-#EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/87ffbeb546271ed903d6f39a4b8d037f",FOX SPORTS 501 australia
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/47370.ts
+http://iptvmedia.live:8080/14736/a477ffe7/11637
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",SKY CRICKET HD england
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/114541.ts
+http://iptvmedia.live:8080/14736/a477ffe7/269
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",SKY CRICKET HD1 england
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/114426.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW HD america
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/8674.ts
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW FHD america
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/4403.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54242.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD HINDI
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54241.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 FHD
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/54239.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HINDI HD
-http://bestbuyiptv.live:8080/live/sikan61/onBX63lY/53994.ts
+http://iptvmedia.live:8080/14736/a477ffe7/273427
 
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://iptvmedia.live:8080/test-f559c3/a194/269
-#EXTINF:-1,UK Sky Sports Cricket HD
-http://iptvmedia.live:8080/test-f559c3/a194/273427
-#EXTINF:-1,UK: WILLOW CRICKET HD
-http://iptvmedia.live:8080/test-f559c3/a194/163130
-#EXTINF:-1,MY: ASTRO CRICKET
-http://iptvmedia.live:8080/test-f559c3/a194/157565
-#EXTINF:-1,US: Willow Cricket HD
-http://iptvmedia.live:8080/test-f559c3/a194/2372
-#EXTINF:-1,ZA: SuperSport Cricket HD
-http://iptvmedia.live:8080/test-f559c3/a194/11637
-#EXTINF:-1,IN: Star Sport 1
-http://iptvmedia.live:8080/test-f559c3/a194/3630
-#EXTINF:-1,IN: Star Sport 2 HD
-http://iptvmedia.live:8080/test-f559c3/a194/3631
-#EXTINF:-1,IN: Star Sport 3 HD
-http://iptvmedia.live:8080/test-f559c3/a194/62584
-#EXTINF:-1, HOTSTAR
-https://bit.ly/3gKq2ot
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW HD america
+http://iptvmedia.live:8080/14736/a477ffe7/165776
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW FHD america
+http://iptvmedia.live:8080/14736/a477ffe7/269701
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD
+http://iptvmedia.live:8080/14736/a477ffe7/3630
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HD HINDI
+http://iptvmedia.live:8080/14736/a477ffe7/3631
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 FHD
+http://iptvmedia.live:8080/14736/a477ffe7/62584
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",STAR SPORTS 1 HINDI HD
+http://iptvmedia.live:8080/14736/a477ffe7/201082
+
