@@ -124,9 +124,7 @@ http://iptvmedia.live:8080/14736/a477ffe7/279209
 
 
 
-EXTINF:-1 group-title="INDIA TV 3",ABP News IN
-
-#EXTINF:-1,Star Sports 1 HD IN
+EXTINF:-1 group-title="INDIA TV 3",Star Sports 1 HD IN
 http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/18807
 #EXTINF:-1,& TV HD IN
 http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/6234
@@ -159,98 +157,8 @@ http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/18794
 
 EXTINF:-1 group-title="INDIA TV 5",&tv
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4276
-#EXTINF:-1,Indian - 5aab Today
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4277
-#EXTINF:-1,Indian - A One Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4278
-#EXTINF:-1,Indian - Aaj Tak News
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4279
-#EXTINF:-1,Indian - Aapka Colors
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4280
-#EXTINF:-1,Indian - Aastha
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4281
-#EXTINF:-1,Indian - ABP ASMITA
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/15500
-#EXTINF:-1,Indian - Akaal Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4283
-#EXTINF:-1,Indian - Asianet Plus
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4284
-#EXTINF:-1,Indian - Asianet TV US
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4285
-#EXTINF:-1,Indian - B4U Movies
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4286
-#EXTINF:-1,Indian - B4U Music
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4287
-#EXTINF:-1,Indian - B4U Plus
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4288
-#EXTINF:-1,Indian - Chakde TV Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4292
-#EXTINF:-1,Indian - CNBC Awaaz
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4295
-#EXTINF:-1,Indian - Colors
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4296
-#EXTINF:-1,Indian - Colors Gujarati
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/15501
-#EXTINF:-1,Indian - Desi Beats Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4301
-#EXTINF:-1,Indian - Desi TV Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4302
-#EXTINF:-1,Indian - ETC Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4304
-#EXTINF:-1,Indian - Food Food TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4305
-#EXTINF:-1,Indian - Hamdard TV Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4306
-#EXTINF:-1,Indian - HBO
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4307
-#EXTINF:-1,Indian - India Today
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4308
-#EXTINF:-1,Indian - Jhanjar TV Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4314
-#EXTINF:-1,Indian - Living Foodz
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4318
-#EXTINF:-1,Indian - M Tunes
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4319
-#EXTINF:-1,Indian - Media Punjab Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4321
-#EXTINF:-1,Indian - MovieOK
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4322
-#EXTINF:-1,Indian - MTV India
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4323
-#EXTINF:-1,Indian - Music India
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4325
-#EXTINF:-1,Indian - NDTV 24x7
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4326
-#EXTINF:-1,Indian - News 24
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4328
-#EXTINF:-1,Indian - Nick Jr.
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4331
-#EXTINF:-1,Indian - PBN Music Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4332
-#EXTINF:-1,Indian - PTC Chakde Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4337
-#EXTINF:-1,Indian - PTC News Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4338
-#EXTINF:-1,Indian - PTC Punjabi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4339
-#EXTINF:-1,Indian - Rishtay Asia
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4346
-#EXTINF:-1,Indian - Sanskar TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4347
-#EXTINF:-1,Indian - Sony
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4351
-#EXTINF:-1,Indian - Sony Max
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4353
-#EXTINF:-1,Indian - Sony Max 2
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4354
-#EXTINF:-1,Indian - Sony Mix
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4355
-#EXTINF:-1,Indian - Sony Sab
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4356
 #EXTINF:-1,Indian - Star Gold
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4359
-#EXTINF:-1,Indian - Star Jalsha
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4360
 #EXTINF:-1,Indian - Star Movies
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4361
 #EXTINF:-1,Indian - Star Movies Select
@@ -261,401 +169,36 @@ http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4363
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4364
 #EXTINF:-1,Indian - Star Sports 2
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4365
-#EXTINF:-1,Indian - TEN 1
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4373
-#EXTINF:-1,Indian - TEN Action
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4374
-#EXTINF:-1,Indian - TEN Cricket
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4375
-#EXTINF:-1,Indian - TEN Golf
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4376
-#EXTINF:-1,Indian - TEN Sports
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4377
-#EXTINF:-1,Indian - TentKotta
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4378
-#EXTINF:-1,Indian - Time Now
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4380
 #EXTINF:-1,Indian - UTV Bindass
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4381
 #EXTINF:-1,Indian - UTV MMovies
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4382
 #EXTINF:-1,Indian - Willow Cricket
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4388
-#EXTINF:-1,Indian - ZEE
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4389
-#EXTINF:-1,Indian - ZEE Action
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4390
-#EXTINF:-1,Indian - ZEE Anmol
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4391
-#EXTINF:-1,Indian - ZEE Bollywood
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4393
-#EXTINF:-1,Indian - ZEE Business
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4394
-#EXTINF:-1,Indian - ZEE Cinema
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4395
-#EXTINF:-1,Indian - ZEE Cinema
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4396
 #EXTINF:-1,Indian - ZEE Classic
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4397
-#EXTINF:-1,Indian - ZEE Living
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4398
-#EXTINF:-1,Indian - ZEE Marathi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4399
-#EXTINF:-1,Indian - ZEE Me
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4400
-#EXTINF:-1,Indian - ZEE News
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4401
-#EXTINF:-1,Indian - ZEE Salam
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4402
-#EXTINF:-1,Indian - ZEE Taas24
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4404
-#EXTINF:-1,Indian - ZEE Talkies
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4405
-#EXTINF:-1,Indian - Zindagi
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4407
-#EXTINF:-1,Indian - Zing TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4408
-#EXTINF:-1,Indian Hindi - News X
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4330
-#EXTINF:-1,Indian Hindi - ZEE Bollywood
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4392
-#EXTINF:-1,Indian Tamil - Aditya TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4282
-#EXTINF:-1,Indian Tamil - Captain News
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4289
-#EXTINF:-1,Indian Tamil - DD Podhigai
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4299
-#EXTINF:-1,Indian Tamil - EET TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4303
-#EXTINF:-1,Indian Tamil - JAYA Max
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4310
-#EXTINF:-1,Indian Tamil - JAYA Movies
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4311
-#EXTINF:-1,Indian Tamil - JAYA Plus
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4312
-#EXTINF:-1,Indian Tamil - JAYA TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4313
-#EXTINF:-1,Indian Tamil - KTV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4316
-#EXTINF:-1,Indian Tamil - News 7
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4329
-#EXTINF:-1,Indian Tamil - Polimer News
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4335
-#EXTINF:-1,Indian Tamil - Puthiya Thalaimurai
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4340
-#EXTINF:-1,Indian Tamil - Puthuyugam TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4341
-#EXTINF:-1,Indian Tamil - Raj Digital Plus
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4342
-#EXTINF:-1,Indian Tamil - Raj Music
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4343
-#EXTINF:-1,Indian Tamil - Raj TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4345
-#EXTINF:-1,Indian Tamil - Seithigal
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4348
-#EXTINF:-1,Indian Tamil - Star Vijay
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4368
-#EXTINF:-1,Indian Tamil - Sun Life
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4369
-#EXTINF:-1,Indian Tamil - Sun Music
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4370
-#EXTINF:-1,Indian Tamil - Sun News
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4371
-#EXTINF:-1,Indian Tamil - Sun TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4372
-#EXTINF:-1,Indian Tamil - Vasanth TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4383
-#EXTINF:-1,Indian Tamil - Vendhar
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4384
-#EXTINF:-1,Indian Tamil - Vijay
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4385
-#EXTINF:-1,Indian Tamil - Wib TV
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4387
-#EXTINF:-1,Indian Tamil - ZEE Tamizh
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4406
 
 
 
 
 
 
-EXTINF:-1 group-title="INDIA TV 6",ABP News IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18792
-#EXTINF:-1,Asianet Plus IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/21537
-#EXTINF:-1,Sony Max 2 IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18802
-#EXTINF:-1,Bollywood Dilse HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18803
-#EXTINF:-1,Sony Six HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18805
-#EXTINF:-1,Sony TV HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18806
-#EXTINF:-1,Star Sports 1 HD IN
+
+EXTINF:-1 group-title="INDIA TV 6",Star Sports 1 HD IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18807
-#EXTINF:-1,Zee Aflam IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/5770
-#EXTINF:-1,Zee Alwan IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/8461
-#EXTINF:-1,& pictures HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10134
 #EXTINF:-1,& TV HD IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6234
-#EXTINF:-1,9XM IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10185
-#EXTINF:-1,Asianet IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10183
-#EXTINF:-1,Asianet News IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10184
-#EXTINF:-1,Aaj News PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6225
-#EXTINF:-1,Zee Alpha ETC Punjabi IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6232
-#EXTINF:-1,B4U Aflam IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6252
-#EXTINF:-1,B4U Movies IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6217
-#EXTINF:-1,B4U Music IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6233
 #EXTINF:-1,UTV IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6236
-#EXTINF:-1,Colors HD BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10172
-#EXTINF:-1,Desi Channel IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10141
-#EXTINF:-1,Discovery IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10147
-#EXTINF:-1,Gemini Movies IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10182
-#EXTINF:-1,Jaya Max IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10181
-#EXTINF:-1,Star Vijay IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10174
-#EXTINF:-1,KTV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6230
-#EXTINF:-1,Kairali TV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10123
-#EXTINF:-1,Star Bharat IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10179
-#EXTINF:-1,MTV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6219
-#EXTINF:-1,Tez News IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10193
-#EXTINF:-1,Brit Asia IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10192
-#EXTINF:-1,Music India IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6245
-#EXTINF:-1,NDTV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10180
-#EXTINF:-1,NTV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10142
-#EXTINF:-1,Zee Café IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6243
-#EXTINF:-1,PTC Punjabi IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6253
-#EXTINF:-1,Rishtey Europe IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6239
-#EXTINF:-1,Sanskar TV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10162
 #EXTINF:-1,Star Sports 2 IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10165
-#EXTINF:-1,Sun Music IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10176
-#EXTINF:-1,Sun TV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10175
-#EXTINF:-1,Raj News IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10259
-#EXTINF:-1,Sony HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10237
-#EXTINF:-1,Sony Max HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10156
 #EXTINF:-1,Star Gold HD IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10161
 #EXTINF:-1,Star Plus HD IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6248
 #EXTINF:-1,Star Gold Select IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6228
-#EXTINF:-1,Sony Ten 1 HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10168
-#EXTINF:-1,Sony Ten 2 HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10170
-#EXTINF:-1,Sony Ten 3 IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10169
-#EXTINF:-1,Sun Life IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10132
-#EXTINF:-1,Asianet Movies IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6251
-#EXTINF:-1,WE IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10187
-#EXTINF:-1,Zee Telugu IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10155
-#EXTINF:-1,Zee Action IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6249
-#EXTINF:-1,Zee Bangla IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10154
-#EXTINF:-1,Zee Anmol IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10173
-#EXTINF:-1,Zee News IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6246
-#EXTINF:-1,Zee Cinema HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6247
-#EXTINF:-1,Zee Anmol Cinema IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10254
-#EXTINF:-1,Zee Cinema UK IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10239
-#EXTINF:-1,Zee Cinema Telugu IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10255
-#EXTINF:-1,Zee Tamil IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6227
-#EXTINF:-1,Zee Marathi IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10256
-#EXTINF:-1,Zee Punjabi IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6244
-#EXTINF:-1,Zee TV HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6242
 #EXTINF:-1,Sony BBC Earth IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6226
-#EXTINF:-1,Zoom TV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6254
-#EXTINF:-1,92 News HD Plus PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10261
-#EXTINF:-1,ARY Digital PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10131
-#EXTINF:-1,ARY News PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10135
-#EXTINF:-1,ARY Zindagi PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10133
-#EXTINF:-1,Dunya News PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/11657
-#EXTINF:-1,Geo TV PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10125
-#EXTINF:-1,Gemini Comedy IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10247
-#EXTINF:-1,Gemini TV IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10248
-#EXTINF:-1,Geo News PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/11656
-#EXTINF:-1,Geo Super PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10253
-#EXTINF:-1,Geo Tez PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/11658
-#EXTINF:-1,Hum TV PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10242
-#EXTINF:-1,PTV Global PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10246
-#EXTINF:-1,PTV Prime PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10241
-#EXTINF:-1,PTV Sports PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10244
-#EXTINF:-1,9X Jalwa IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10235
-#EXTINF:-1,Samaa TV PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10129
-#EXTINF:-1,Sony SAB HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10139
-#EXTINF:-1,Urdu 1 PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/10130
-#EXTINF:-1,1TV HD AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/12098
-#EXTINF:-1,Arezo TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6736
-#EXTINF:-1,Lemar TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/6718
-#EXTINF:-1,Tamadon AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/12795
-#EXTINF:-1,Watan TV HD AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/12787
-#EXTINF:-1,Asian TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16772
-#EXTINF:-1,ATN Bangla BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16770
-#EXTINF:-1,ATN News BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16771
-#EXTINF:-1,Kanak News BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16773
-#EXTINF:-1,Channel 24 BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16775
-#EXTINF:-1,Channel 9 BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16776
-#EXTINF:-1,Channel I Europe BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16777
-#EXTINF:-1,Deepto TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16779
-#EXTINF:-1,Desh TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16780
-#EXTINF:-1,Ekattor TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16781
-#EXTINF:-1,Bijoy TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16782
-#EXTINF:-1,Independent TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16783
-#EXTINF:-1,Jamuna TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16784
-#EXTINF:-1,Mohona TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16785
-#EXTINF:-1,Bangla Vision BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16786
-#EXTINF:-1,NTV Europe BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16787
-#EXTINF:-1,RTV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16788
-#EXTINF:-1,SA TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16789
-#EXTINF:-1,Somoy News TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/16790
-#EXTINF:-1,A Plus PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/23447
-#EXTINF:-1,Hum Masala PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/23448
-#EXTINF:-1,Shamshad TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/24487
-#EXTINF:-1,MTV Beats HD IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18798
-#EXTINF:-1,India Today IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/27553
-#EXTINF:-1,NDTV 24x7 IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/27552
-#EXTINF:-1,Zhwandoon TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28199
-#EXTINF:-1,Tolo News AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28198
-#EXTINF:-1,Tolo TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28197
-#EXTINF:-1,Jahan Numa TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28195
-#EXTINF:-1,Hewad TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28194
-#EXTINF:-1,Batur TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28193
-#EXTINF:-1,Ayna TV AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28192
-#EXTINF:-1,ATN News AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28191
-#EXTINF:-1,Ariana TV National AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28190
-#EXTINF:-1,AMC AF
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28189
-#EXTINF:-1,Bol News PK
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/28186
 #EXTINF:-1,History HD IN
 http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18794
-#EXTINF:-1,Sony Pal IN
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/18801
-#EXTINF:-1,Gaan Bangla BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37131
-#EXTINF:-1,Boishakhi TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37132
-#EXTINF:-1,BTV World BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37133
-#EXTINF:-1,Maasranga TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37135
-#EXTINF:-1,My TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37136
-#EXTINF:-1,Rupasi Bangla BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37137
-#EXTINF:-1,Nandan TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37139
-#EXTINF:-1,Jonack BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37140
-#EXTINF:-1,ETV TV BD
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/37141
