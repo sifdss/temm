@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png",SkyCricket FAST
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png" group-title="CRICKET MASALA",SkyCricket FAST
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/87ffbeb546271ed903d6f39a4b8d037f",FOX SPORTS 501
 http://iptvmedia.live:8080/14736/a477ffe7/279034
