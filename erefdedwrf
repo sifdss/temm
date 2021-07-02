@@ -29,7 +29,7 @@ http://iptvmedia.live:8080/14736/a477ffe7/201082
 
 
 
-EXTINF:-1 group-title="INDIA TV 1",Star Sports 1 HD IN
+#EXTINF:-1 group-title="INDIA TV 1",Star Sports 1 HD IN
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18807
 #EXTINF:-1,& TV HD IN
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/6234
@@ -56,7 +56,7 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/18794
 
 
 
-EXTINF:-1 group-title="INDIA TV 2",& Flix
+#EXTINF:-1 group-title="INDIA TV 2",& Flix
 http://iptvmedia.live:8080/14736/a477ffe7/45506
 #EXTINF:-1,IN: & TV HD
 http://iptvmedia.live:8080/14736/a477ffe7/16964
@@ -131,7 +131,7 @@ http://iptvmedia.live:8080/14736/a477ffe7/144825
 
 
 
-EXTINF:-1 group-title="INDIA TV 3",Star Sports 1 HD IN
+#EXTINF:-1 group-title="INDIA TV 3",Star Sports 1 HD IN
 http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/18807
 #EXTINF:-1,& TV HD IN
 http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/6234
@@ -162,7 +162,7 @@ http://85.203.33.88:80/9GW6yHswcH/eedMfOGMje/18794
 
 
 
-EXTINF:-1 group-title="INDIA TV 5",&tv
+#EXTINF:-1 group-title="INDIA TV 5",&tv
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4276
 #EXTINF:-1,Indian - Star Gold
 http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4359
@@ -191,7 +191,7 @@ http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4397
 
 
 
-EXTINF:-1 group-title="INDIA TV 6",&TV FHD IN
+#EXTINF:-1 group-title="INDIA TV 6",&TV FHD IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15879
 #EXTINF:-1,MTV IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2842
