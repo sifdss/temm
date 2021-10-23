@@ -42,3 +42,5 @@ http://45.86.190.64:25461/jSqHgCqyuf9baVDp/R0ur8HpkRCC5SKXC/34513?play_token=vQI
 #EXTINF:-1, SRILANKA TV
 http://93.114.194.133/hls/CE9QsFoX3tZ7HXPRCqtAsGWdVw6XR1XT.m3u8
 
+#EXTINF:-1, GTV BD
+http://103.40.226.94:8080/hls/channel_1.m3u8
